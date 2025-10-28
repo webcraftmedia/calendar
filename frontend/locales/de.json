@@ -1,0 +1,20 @@
+{
+  "components": {
+    "Footer": {
+      "copyright": "© 2025",
+      "copyright-holder": "Webcraft-Media",
+      "copyright-text": ". Alle Rechte vorbehalten.",
+      "imprint": "Impressum",
+      "privacy-policy": "Datenschutz"
+    },
+    "Header": {
+      "community": "Community",
+      "features": "Funktionen",
+      "open-menu": "Open menu",
+      "pricing": "Preise"
+    }
+  },
+  "pages": {
+    "index": {}
+  }
+}
